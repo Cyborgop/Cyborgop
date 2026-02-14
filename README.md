@@ -1,52 +1,78 @@
 <h1 align="center">Hi 👋, I'm Subhadeep Mondal</h1>
-<h3 align="center">Software Engineer | Computer Vision • Embedded Systems • REST APIs</h3>
+<h3 align="center">
+Software Engineer | Computer Vision • Embedded Systems • Backend Services
+</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://github.com/Cyborgop" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github">
-  </a>
+---
+
+## 👨‍💻 About Me
+- Software Engineer with **prior experience at Tata Consultancy Services (TCS)**
+- Worked on **RESTful backend services** in production environments
+- Strong focus on **Computer Vision, Embedded Systems, and Edge AI**
+- Interested in **system-level optimization and hardware–software co-design**
+
+---
+
+## 🛠 Tech Stack
+
+### 🔹 Backend & Microservices
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,springboot,kafka,fastapi" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/apache.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/elasticsearch.svg" height="45"/>
+</p>
+
+- RESTful Microservices
+- Apache-based systems
+- Kafka-based event streaming
+- FastAPI for lightweight services
+
+---
+
+### 🔹 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- Software Engineer with **prior experience at Tata Consultancy Services (TCS)**
-- Worked on **RESTful API development** in production systems
-- Strong focus on **Computer Vision and Embedded Systems**
-- Interested in **Embedded AI, Edge Vision, and system-level optimization**
+### 🔹 Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git" />
+</p>
 
 ---
 
-### 🔧 What I Work On
-- Computer Vision & Image Processing  
-- Embedded Systems (MCU-based deployment)  
-- RESTful API development  
-- Performance-critical systems using **C/C++ and Python**
+### 🔹 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
 
 ---
 
-### 🧠 Technical Interests
-- Embedded AI & Edge Vision  
-- OCR and vision pipelines  
-- Hardware–software co-design  
-- Low-latency and memory-efficient systems
+### 🔹 Embedded Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stmicroelectronics.svg" height="45"/>
+</p>
+
+- Keil µVision
+- STM32 Microcontrollers
+- Bare-metal & low-level embedded development
+- Peripheral interfacing and optimization
 
 ---
 
-### 🛠 Tech Stack
-**Languages:**  
-C • C++ • Python • Java  
+### 🔹 Computer Vision & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
 
-**Domains:**  
-Computer Vision • Embedded Systems • Backend APIs  
-
-**Tools & Platforms:**  
-Git • Linux • Microcontrollers • REST APIs  
+- Image Processing
+- OCR & Vision Pipelines
+- Edge & Embedded Vision
+- Model optimization for low-resource systems
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 ⬇️ Check out my pinned repositories below ⬇️
